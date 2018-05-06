@@ -1,6 +1,6 @@
 # The Machine Learning cheatsheet
 
-A 5-pages only Machine Learning cheatsheet focusing on most popular algorithms procedures under the hood.
+A 5-pages only Machine Learning cheatsheet focusing on the most popular algorithms under the hood.
 
 Links
 -------
