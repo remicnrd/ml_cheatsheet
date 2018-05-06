@@ -11,11 +11,11 @@ Links
 Screenshots
 -------
 
-![First Page](https://imgur.com/2oOpMVv.jpg)
-![Second Page](https://imgur.com/3nu7tXz.jpg)
-![Thirt Page](https://imgur.com/cq78Fsj.jpg)
-![Fourth Page](https://imgur.com/SG9oekZ.jpg)
-![Fifth Page](https://imgur.com/Etj7r2n.jpg)
+![First Page](https://imgur.com/iHD35fz.jpg)
+![Second Page](https://imgur.com/1iutktN.jpg)
+![Thirt Page](https://imgur.com/2Ryd5Wx.jpg)
+![Fourth Page](https://imgur.com/Bvni7tu.jpg)
+![Fifth Page](https://imgur.com/QJFEiIh.jpg)
 
 
 License
